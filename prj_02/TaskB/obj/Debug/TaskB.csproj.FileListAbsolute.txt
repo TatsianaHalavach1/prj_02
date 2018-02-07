@@ -1,0 +1,7 @@
+C:\Users\Tatsiana_Halavach1\source\repos\prj_02\TaskB\bin\Debug\TaskB.exe.config
+C:\Users\Tatsiana_Halavach1\source\repos\prj_02\TaskB\bin\Debug\TaskB.exe
+C:\Users\Tatsiana_Halavach1\source\repos\prj_02\TaskB\bin\Debug\TaskB.pdb
+C:\Users\Tatsiana_Halavach1\source\repos\prj_02\TaskB\obj\Debug\TaskB.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Halavach1\source\repos\prj_02\TaskB\obj\Debug\TaskB.exe
+C:\Users\Tatsiana_Halavach1\source\repos\prj_02\TaskB\obj\Debug\TaskB.pdb
+C:\Users\Tatsiana_Halavach1\source\repos\prj_02\TaskB\obj\Debug\TaskB.csprojResolveAssemblyReference.cache
